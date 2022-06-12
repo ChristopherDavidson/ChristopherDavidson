@@ -1,3 +1,5 @@
+# This was my Google Analytics Capstone Case Study. This was the code I used in R to produce my analysis. I know it still looks amaturish, this was my first time writing R.
+
 install.packages("tidyverse") #includes dplyr, readr & ggplot2                     
 install.packages("plyr")
 install.packages("janitor")
